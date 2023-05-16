@@ -2,7 +2,7 @@
 The project converts temperatures.
 ## Installation
 
-'git clone git@github.com:TUSAIL/ESR13_Max_CR.gitk'
+`git clone git@github.com:TUSAIL/ESR13_Max_CR.gitk`
 
 ## Example
 `celsius_to_kelvin(temperature)`
