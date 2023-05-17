@@ -4,3 +4,4 @@ results/
 *.js
 doc/source/build
 __pycache*
+_build/
