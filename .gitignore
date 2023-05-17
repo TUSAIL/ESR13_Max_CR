@@ -7,3 +7,4 @@ __pycache*
 _build/
 docs/build
 docs/source/_build
+pytest-example/
