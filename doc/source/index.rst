@@ -11,6 +11,7 @@ Welcome to Temperature conversion's documentation!
    :caption: Contents:
 
    ../feature-a.md
+   ../api.rst
 
 Indices and tables
 ==================

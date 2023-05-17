@@ -2,4 +2,5 @@
 results/
 !results/output1.csv
 *.js
-doc/build
+doc/source/build
+__pycache*
