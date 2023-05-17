@@ -1,3 +1,7 @@
 *.dat
 results/
 !results/output1.csv
+*.js
+doc/source/build
+__pycache*
+_build/
